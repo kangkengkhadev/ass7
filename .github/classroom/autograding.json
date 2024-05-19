@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test Case 1",
+      "setup": "npm install",
+      "run": "npm run test -- case1.test.tsx",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Case 2",
+      "setup": "npm install",
+      "run": "npm run test -- case2.test.tsx",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Test Case 3",
+      "setup": "npm install",
+      "run": "npm run test -- case3.test.tsx",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Case 4",
+      "setup": "npm install",
+      "run": "npm run test -- case4.test.tsx",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
